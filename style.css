@@ -1,0 +1,16 @@
+#heading{
+    background-color: darkorange;
+}
+.copy_right_footer{
+    background-color: orangered;
+    font-size: large;
+    line-height: 3;
+    text-align: center;
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+}
+canvas{
+    background-color: lightgoldenrodyellow;
+}
